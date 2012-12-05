@@ -14,6 +14,7 @@ gem 'pg'
 # in production environments by default.
 gem 'sass-rails'
 gem "compass"
+gem 'high_voltage'
 group :assets do
   gem 'coffee-rails'
   gem 'uglifier'
